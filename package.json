@@ -1,0 +1,24 @@
+{
+  "name": "mern-to-do-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkannen/mern-to-do-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkannen/mern-to-do-list/issues"
+  },
+  "homepage": "https://github.com/kkannen/mern-to-do-list#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.14.12",
+    "mongoose": "^5.2.5"
+  }
+}
